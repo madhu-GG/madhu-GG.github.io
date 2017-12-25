@@ -1,0 +1,19 @@
+/*
+ * general stuff that makes my resume have a consistent style
+ *
+ */
+body {
+	margin-left: 10%;
+	background-color:#F0F0FF;
+	font-family:Palatino, Arial, "Times New Roman";
+}
+
+ol {
+	list-style-type: none;
+}
+
+/*
+.header {
+	display: none;
+}
+*/
