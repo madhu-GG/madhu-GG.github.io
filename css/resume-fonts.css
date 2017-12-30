@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Lucida Console";
-    src: url("/fonts/lucida_console/lucon.ttf");
+    src: url("/fonts/lucon.ttf");
 }
 
 @font-face {
     font-family: "excalibur";
-    src: url("/fonts/excalibur/excalib.ttf");
+    src: url("/fonts/excalib.ttf");
 }
