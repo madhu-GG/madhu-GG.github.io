@@ -1,0 +1,22 @@
+#bio h2.header {
+	display: none;
+}
+
+#bio ul.contact {
+	list-style-type: none;
+}
+
+#bio .name {
+	font-size: 150%;
+	font-weight: bolder;
+	text-align: center;
+}
+
+#bio .mobile {
+}
+
+#bio .email {
+}
+
+#bio .city {
+}
