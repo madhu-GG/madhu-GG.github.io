@@ -1,0 +1,30 @@
+ol.companies {
+    list-style-type: decimal;
+    margin-left: 5%;
+}
+
+.company .name, .duration {
+    display: inline-block;
+}
+
+.company .name {
+    font-size: 120%;
+}
+
+.company .duration {
+    font-size: 75%;
+    font-weight: lighter;
+}
+
+.position .name, .duration {
+    display: inline;
+}
+
+.position .name {
+    font-size: 110%;
+}
+
+.position .duration {
+    font-size: 75%;
+    font-weight: lighter;
+}

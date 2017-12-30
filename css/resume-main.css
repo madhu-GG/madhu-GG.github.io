@@ -2,22 +2,34 @@
  * general stuff that makes my resume have a consistent style
  *
  */
-@import  "resume-common.css";
+@import "resume-fonts.css";
+@import "resume-common.css";
+@import "resume-skills.css";
+@import "resume-experience.css";
+@import "resume-education.css";
 @import "resume-bio.css";
 
 body {
-	background-color: #AAAAAA;
-	font-family: Helvetica, Arial, sans-serif;
+	background-color: wheat;
+	color: black;
+	font-family: "excalibur","Lucida Console", Arial, Helvetica, sans-serif;
+}
+
+ol, ul {
+	padding-right: 5%;
 }
 
 ol {
 	list-style-type: none;
-	padding-left: 0px;
+	padding-left: 0%;
+}
+
+li {
+	margin: 5px;
+	line-height: 1.5em;
 }
 
 .resume {
 	margin-left: 10%;
 	margin-right: 10%;
-	margin-top: 1%;
-	margin-bottom: 1%;
 }

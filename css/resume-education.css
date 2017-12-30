@@ -1,0 +1,17 @@
+ol.institutions {
+    list-style-type: decimal;
+    margin-left: 5%;
+}
+
+.institution .name, .certification, .duration {
+    display: inline;
+}
+
+.institution .name {
+    font-size: 110%;
+}
+
+.institution .duration {
+    font-size: 75%;
+    font-weight: lighter;
+}
