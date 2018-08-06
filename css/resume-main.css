@@ -10,9 +10,9 @@
 @import "resume-bio.css";
 
 body {
-	background-color: wheat;
+	background-color: white;
 	color: black;
-	font-family: "excalibur","Lucida Console", Arial, Helvetica, sans-serif;
+	font-family: "Times New Roman", Arial, Helvetica, courier-new, sans-serif;
 }
 
 ol, ul {
