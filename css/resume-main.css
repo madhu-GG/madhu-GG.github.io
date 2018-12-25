@@ -12,7 +12,7 @@
 body {
 	background-color: white;
 	color: black;
-	font-family: "Times New Roman", Arial, Helvetica, courier-new, sans-serif;
+	font-family: Arial, sans-serif,"Times New Roman", Helvetica, courier-new;
 }
 
 ol, ul {
